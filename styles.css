@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+}
+
+.c-item-1{
+    height: 20rem;
+}
+
+.c-img-1{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.35);
+}
+
+.about-us{
+    color: white;
+    font-size: 2.7rem;
+    text-decoration: none;
+}
+.carousel-caption{
+    margin-left: 55%;
+    margin-bottom: 8%;
+}
+
+.about-us:hover{
+    color:#f6f6f6ec;
+}
+
+p{
+    color: gray;
+}
+
+.col-5{
+    margin-left: 10%;
+}
+.col-6{
+    margin-left: 0%;
+}
+.c-item-2{
+    margin-left: 10%; 
+}
+.c-item-3{
+    margin-left: 0%;   
+}
+  
+.custom-btn{
+    font-size: 90% !important;
+    padding: 2.5% 8% 2.5% 8% !important;
+}
+.c-img-2{
+    height: 450px;
+    object-fit: cover;
+}
+
+.c-item-4{
+    margin-left: auto;
+    
+}
+.c-item-5{
+    margin-left: auto;
+}
+
+
+.card-1{
+    padding: 1.5%;
+    margin: 3%;
+}
+
+.card-1-title{
+    color: rgb(40, 170, 185);
+}
+
+.card-0{
+    margin: 5% 15%;
+    transition: all 0.3s;
+}
+.card-0:hover{
+    transform: scale(1.20);
+}
+
+.c-h2{
+    text-align: center; 
+    color: black;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-color: rgb(40, 170, 185);
+    text-decoration-thickness: 2px;
+}
